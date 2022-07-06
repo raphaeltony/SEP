@@ -4,4 +4,10 @@
 void main()...
 {
 	//some code
+	blah blah more code
+
+}
+
+void newfunction(){
+	...
 }
