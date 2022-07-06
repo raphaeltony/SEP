@@ -1,0 +1,7 @@
+#include<>....
+
+
+void main()...
+{
+	//some code
+}
